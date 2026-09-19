@@ -1,0 +1,17 @@
+node_modules/
+plugin/dist/
+release/
+.wrangler/
+worker/.dev.vars*
+.env*
+secrets.json
+quick-capture-config.json
+.private/
+.ai/
+coverage/
+*.tsbuildinfo
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
